@@ -22,7 +22,7 @@
 body {
   margin:0;
   padding:0;
-  font-family: sans-serif;
+  font-family: Helvetica;
   background: #FFFFE3;
 }
 
@@ -51,6 +51,7 @@ p {
   padding:0;
   margin-bottom: 10px;
   background: #86b388;
+  border-radius: 2px;
 }
 
 .navbar h3{
@@ -91,16 +92,24 @@ p {
   width: 100%;
   display:block;
   margin: 0 auto;
-  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   background: #BA5D22;
+  border-radius: 3px;
 }
 
 .box3{
   width: 100%;
   display:block;
   margin: 0 auto;
-  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   background: #AE2D17;
+  border-radius: 3px;
 }
 
 /*MEDIA QUERIES*/
